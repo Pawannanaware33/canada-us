@@ -1,0 +1,66 @@
+{
+    "miami": {
+        "name": "Miami",
+        "id": "miami",
+        "highlights": [
+            {
+                "title": "Biscayne Bay",
+                "desc": "Crystal blue waters, skyline views; perfect for sunset charters."
+            },
+            {
+                "title": "Star Island",
+                "desc": "View exclusive celebrity homes from the water."
+            }
+        ],
+        "heroImage": "https://images.unsplash.com/photo-1600665789007-203c1bfc4fd7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "heroText": "Private Yacht Charters in Miami"
+    },
+    "nyc": {
+        "name": "NYC",
+        "id": "nyc",
+        "highlights": [
+            {
+                "title": "Statue of Liberty",
+                "desc": "Iconic close-up views of Lady Liberty."
+            },
+            {
+                "title": "Manhattan Skyline",
+                "desc": "Breathtaking views of the city that never sleeps."
+            }
+        ],
+        "heroImage": "/assets/nyc.png",
+        "heroText": "Private Yacht Charters in NYC"
+    },
+    "vancouver": {
+        "name": "Vancouver",
+        "id": "vancouver",
+        "highlights": [
+            {
+                "title": "English Bay",
+                "desc": "Stunning ocean views framed by mountains."
+            },
+            {
+                "title": "False Creek",
+                "desc": "Urban cruising through the heart of the city."
+            }
+        ],
+        "heroImage": "/assets/vancouver.png",
+        "heroText": "Private Yacht Charters in Vancouver"
+    },
+    "toronto": {
+        "name": "Toronto",
+        "id": "toronto",
+        "highlights": [
+            {
+                "title": "Harbourfront",
+                "desc": "Vibrant waterfront scenes and city views."
+            },
+            {
+                "title": "Toronto Islands",
+                "desc": "Escape to the tranquil islands just minutes away."
+            }
+        ],
+        "heroImage": "/assets/toronto.png",
+        "heroText": "Private Yacht Charters in Toronto"
+    }
+}
